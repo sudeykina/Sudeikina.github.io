@@ -70,7 +70,7 @@ body {
 https://developer.mozilla.org/ru/docs/Web/CSS/@media
 */
 .name {
-  font-size: 12.778vw;
+  font-size: 12vw;
   line-height: 100%;
 }
 
@@ -81,13 +81,13 @@ https://developer.mozilla.org/ru/docs/Web/CSS/@media
 .block-title {
   color: rgba(240, 240, 240, 0.6);
   line-height: 5.208vw;
-  font-size: 4.444vw;
+  font-size: 6vw;
   margin-bottom: 3.333vw;
 }
 
 .entry {
   line-height: 7.814vw;
-  font-size: 4.667vw;
+  font-size: 6vw;
   margin-bottom: 1.667vw;
 }
 
